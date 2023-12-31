@@ -5,3 +5,14 @@
 	  content: "\f105";
 	  padding-left:10px;
 }
+
+#mail {
+	font-size: 13px;
+	color: #81848f;
+	transition: all 100ms;
+	
+}
+
+#mail:hover {
+color: #515769;
+}
